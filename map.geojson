@@ -1,0 +1,102 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "id": 0,
+            "chapter": " ",
+            "zoom": 20,
+            "image": "img/LOGODRR.jpg",
+            "source-credit": "Eco-DRR and CCA UGM 2023",
+            "source-link": "https://ecodrr.ugm.ac.id/"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [110.37743467849013,-7.7664175575045755]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "id": 1,
+            "chapter": "Auzaie Ihza Mahendra",
+            "zoom": 17,
+            "image": "img/zai.jpg",
+            "source-credit": "Universitas Gadjah Mada",
+            "source-link": "https://ugm.ac.id/"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [110.37743467849013,-7.7664175575045755]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "id": 2,
+            "chapter": "Faizan Dalila",
+            "zoom": 17,
+            "image": "img/faizan.jpg",
+            "source-credit": "Universitas Gadjah Mada",
+            "source-link": "https://flic.kr/p/FNxWf8"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [ 110.37234426508807,-7.76460865635598]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "id": 3,
+            "chapter": "Khalid D. Dimalanas",
+            "zoom": 15,
+            "image": "img/khalid.jpg",
+            "source-credit": "Mindanao State University",
+            "source-link": "https://www.msuiit.edu.ph/"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [124.26084038508682,  7.999189438533784]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "id": 4,
+            "chapter": "Rhea Lou R. Germo",
+            "zoom": 17,
+            "image": "img/Rhea.jpg",
+            "source-credit": "University of Southeastern Philippines",
+            "source-link": "https://www.usep.edu.ph/"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [125.61607716419614, 7.085825471464177]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "id": 5,
+            "chapter": "Wilma C. De Los Santos",
+            "zoom": 15,
+            "image": "img/Wilma.jpg",
+            "source-credit": "Mindoro State University",
+            "source-link": "https://www.minsu.edu.ph/"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [121.18700380354969, 13.157845268897779]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "id": 6,
+            "chapter": "Kumala Nur Hayati",
+            "zoom": 18,
+            "image": "img/Kumala.jpg",
+            "source-credit": "Ministry of Environment and Forestry Indonesia",
+            "source-link": "https://www.menlhk.go.id/"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [110.76719439569837, -7.563909083516569]
+        }
+    }]
+}
